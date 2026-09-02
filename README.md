@@ -1,4 +1,4 @@
-# Ángel Obregón
+# Angel Obregon
 
 ¡Hola! Soy estudiante de últimos ciclos de **Ingeniería de Sistemas** en la **Universidad Nacional Mayor de San Marcos (UNMSM)**. Me apasiona el desarrollo de software en general, resolver problemas reales y aprender continuamente nuevas herramientas para construir soluciones funcionales y eficientes.
 
