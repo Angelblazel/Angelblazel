@@ -35,12 +35,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelblazel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelblazel&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
-</p>
